@@ -1,0 +1,48 @@
+﻿* Encoding: UTF-8.
+NPAR TESTS
+  /M-W= Productividad BY DevAppr(0 1)
+  /MISSING ANALYSIS.
+
+NPAR TESTS
+  /M-W= Productividad BY Tarea1(20 21)
+  /MISSING ANALYSIS.
+
+NPAR TESTS
+  /M-W= ProdTLD BY TareaProdTLD(20 21)
+  /MISSING ANALYSIS.
+
+NPAR TESTS
+  /M-W= ProdTDD BY TareaProdTDD(20 21)
+  /MISSING ANALYSIS.
+
+NPAR TESTS
+  /M-W= ProdBSK_NS BY DevApprProdBSK_NS(0 1)
+  /MISSING ANALYSIS.
+
+NPAR TESTS
+  /M-W= ProdBSK_S BY DevApprProdBSK_S(0 1)
+  /MISSING ANALYSIS.
+
+NPAR TESTS
+  /M-W= Productividad Log_Prod SQRT_Prod BY DevAppr(0 1)
+  /MISSING ANALYSIS.
+
+NPAR TESTS
+  /M-W= Productividad Log_Prod SQRT_Prod BY Tarea1(20 21)
+  /MISSING ANALYSIS.
+
+NPAR TESTS
+  /M-W= ProdTLD Log_ProdTLD SQRT_ProdTLD BY TareaProdTLD(20 21)
+  /MISSING ANALYSIS.
+
+NPAR TESTS
+  /M-W= ProdTDD Log_ProdTDD SQRT_ProdTDD BY TareaProdTDD(20 21)
+  /MISSING ANALYSIS.
+
+NPAR TESTS
+  /M-W= ProdBSK_NS Log_ProdBSK_NS SQRT_ProdBSK_NS BY DevApprProdBSK_NS(0 1)
+  /MISSING ANALYSIS.
+
+NPAR TESTS
+  /M-W= ProdBSK_S Log_ProdBSK_S SQRT_ProdBSK_S BY DevApprProdBSK_S(0 1)
+  /MISSING ANALYSIS.
